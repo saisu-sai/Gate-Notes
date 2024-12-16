@@ -19,5 +19,3 @@ You can store and manage data in separate files also. That is how it was used to
 5. Concurrent-Access Anomalies
 6. Security Problems
 
-### Instance and Schema
-The overall design of a database is called "Schema" of that database. 
