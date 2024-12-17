@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DMBS/002 Instance and Schema.md",
+                "file": "DMBS/003 Designing Databases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002 Instance and Schema"
+              "title": "003 Designing Databases"
             }
           }
         ]
@@ -166,8 +166,11 @@
   },
   "active": "00b9e82d862be05d",
   "lastOpenFiles": [
-    "DMBS/001 DMBS Intro.md",
     "DMBS/002 Instance and Schema.md",
+    "DMBS/003 Designing Databases.md",
+    "DMBS/Deep definitions/001 Database System Architecture.md",
+    "DMBS/Deep definitions",
+    "DMBS/001 DMBS Intro.md",
     "000 Introduction.md",
     "DMBS",
     "Digital Logics/003 Logic Simplification.md",
